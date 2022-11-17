@@ -1,3 +1,4 @@
+import java.util.Random;
 class Deck{
   SetCard [] setcards = new SetCard[81];
 
